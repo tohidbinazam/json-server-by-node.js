@@ -1,0 +1,25 @@
+{
+    "students":[
+        {
+            "id" : 1,
+            "name" : "Tokio Bin Adam",
+            "age" : 24,
+            "skill" :"MERN Stack",
+            "location" :"Khulna"
+        },
+        {
+            "id" : 2,
+            "name" : "Sazid Buhia",
+            "age" : 18,
+            "skill" :"Java Developer",
+            "location" :"Dhaka"
+        },
+        {
+            "id" : 3,
+            "name" : "Tarin Khan",
+            "age" : 24,
+            "skill" :"IOS Devs",
+            "location" :"Sylhet"
+        }
+    ]
+}

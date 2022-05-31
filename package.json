@@ -1,0 +1,17 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5020",
+    "start": "nodemon server"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
